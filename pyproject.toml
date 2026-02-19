@@ -1,0 +1,12 @@
+[project]
+name = "neuronaldynamics-exercises"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.2.0",
+    "neurodynex3>=1.0.4",
+    "numpy>=1.26.4",
+    "pip>=26.0.1",
+]
